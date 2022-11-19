@@ -1,0 +1,6 @@
+Name:Karthick R
+Class: B
+Department: Computer Science and Engineering
+Roll No: 19CSR078
+Subject:Github
+
